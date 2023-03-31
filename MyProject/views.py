@@ -6,7 +6,6 @@ from django.urls import reverse
 from django.core.mail import send_mail
 import random
 from datetime import datetime
-import razorpay
 
 
 def home(request):
